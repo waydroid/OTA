@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1658552888,
+            "filename": "lineage-17.1-20220723-MAINLINE-waydroid_x86_64-vendor.zip",
+            "id": "d76c07ef45232ccf0423fff81f396141176f9e5fbd919134218b9da4200ec2b4",
+            "romtype": "MAINLINE",
+            "size": 125122259,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_x86_64/lineage-17.1-20220723-MAINLINE-waydroid_x86_64-vendor.zip/download",
+            "version": "17.1"
+        },
+        {
             "datetime": 1652576701,
             "filename": "lineage-17.1-20220515-MAINLINE-waydroid_x86_64-vendor.zip",
             "id": "62ebdddd09234d57b31ff601a8fc35d84634e2b4e6308d4d17c2ccff77708433",
