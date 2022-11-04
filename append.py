@@ -4,6 +4,7 @@
 
 import json
 import argparse
+import os
 
 # Instantiate the parser
 parser = argparse.ArgumentParser(description='OTA JSON Data appender')
@@ -29,6 +30,11 @@ new_ota = {
             "version": args.ROM_VERSION
         }
 
+if not os.path.exists(args.JSON_FILE):
+    with open(args.JSON_FILE, 'w') as f:
+        data = {"response": []}
+        f.write(json.dumps(data, indent=4))
+        
 with open(args.JSON_FILE, 'r+') as file:
     file_data = json.load(file)
     file_data["response"].insert(0, new_ota)
