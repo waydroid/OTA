@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1697241079,
+            "filename": "lineage-18.1-20231014-VANILLA-waydroid_x86-system.zip",
+            "id": "8d92423b3110cadafff0f4baabcc21b414c83202a4fc62c9f5512fd4e3461fac",
+            "romtype": "VANILLA",
+            "size": 608233340,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86/lineage-18.1-20231014-VANILLA-waydroid_x86-system.zip/download",
+            "version": "18.1"
+        },
+        {
             "datetime": 1696636501,
             "filename": "lineage-18.1-20231007-VANILLA-waydroid_x86-system.zip",
             "id": "39811b67667e7663e768f7cd01623d6ee444d7762c9fa5044165d7cceb3b685d",
