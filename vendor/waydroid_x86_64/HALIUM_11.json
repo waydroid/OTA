@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1706290878,
+            "filename": "lineage-18.1-20240127-HALIUM_11-waydroid_x86_64-vendor.zip",
+            "id": "ea484ef20b12a79b62ed4ddeeb77f702726127ae0def66d4d8db8a20877d30c4",
+            "romtype": "HALIUM_11",
+            "size": 54474270,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_x86_64/lineage-18.1-20240127-HALIUM_11-waydroid_x86_64-vendor.zip/download",
+            "version": "18.1"
+        },
+        {
             "datetime": 1705686096,
             "filename": "lineage-18.1-20240120-HALIUM_11-waydroid_x86_64-vendor.zip",
             "id": "498bfff0a7c177d2e0c56e680b46304cd1f5c6a4dc98ddc4e446e7c3733cc22f",
