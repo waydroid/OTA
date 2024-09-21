@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1726899352,
+            "filename": "lineage-18.1-20240921-GAPPS-waydroid_x86-system.zip",
+            "id": "cd7b6e070e6a2e4ba49c20cb52ad1f82e120805076b6457bcc1d9690df3c7f27",
+            "romtype": "GAPPS",
+            "size": 694073299,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86/lineage-18.1-20240921-GAPPS-waydroid_x86-system.zip/download",
+            "version": "18.1"
+        },
+        {
             "datetime": 1726294561,
             "filename": "lineage-18.1-20240914-GAPPS-waydroid_x86-system.zip",
             "id": "e467ccdb6b6680f7a4503ed1efa9e3a6c07cbcc6a93fd97e3223281ca3fcb02a",
