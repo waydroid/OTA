@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1752272962,
+            "filename": "lineage-18.1-20250712-HALIUM_11-waydroid_arm-vendor.zip",
+            "id": "1716f3afc3282d4cd7dfd6c0525dbe0e3405040f58eb6e7563ce2ce8468b48b7",
+            "romtype": "HALIUM_11",
+            "size": 22968341,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20250712-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "version": "18.1"
+        },
+        {
             "datetime": 1751929635,
             "filename": "lineage-18.1-20250708-HALIUM_11-waydroid_arm-vendor.zip",
             "id": "9c8145129ccf7772c6216fcab2397965176e8654057cc79865c74a8b6b4271d8",
