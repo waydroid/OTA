@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1753502833,
+            "filename": "lineage-16.0-20250726-HALIUM_9-waydroid_arm64-vendor.zip",
+            "id": "7c7056581bc5ee6e36707ecb7cc93a7f742247f513748cfae3f2dab64c57c09a",
+            "romtype": "HALIUM_9",
+            "size": 7260140,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm64/lineage-16.0-20250726-HALIUM_9-waydroid_arm64-vendor.zip/download",
+            "version": "16.0"
+        },
+        {
             "datetime": 1752882094,
             "filename": "lineage-16.0-20250719-HALIUM_9-waydroid_arm64-vendor.zip",
             "id": "dd83b3dc6852c3fcc66b8aa0e3619774de790c3545ffa5c194af725e21bda0a5",
