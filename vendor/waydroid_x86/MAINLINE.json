@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1754740550,
+            "filename": "lineage-20.0-20250809-MAINLINE-waydroid_x86-vendor.zip",
+            "id": "77f5b7054f845c400246ad0b0764da3c6e4f87ade5abc040d81534eb9559f129",
+            "romtype": "MAINLINE",
+            "size": 97833742,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_x86/lineage-20.0-20250809-MAINLINE-waydroid_x86-vendor.zip/download",
+            "version": "20.0"
+        },
+        {
             "datetime": 1754175678,
             "filename": "lineage-20.0-20250803-MAINLINE-waydroid_x86-vendor.zip",
             "id": "527f0e4b5953df336baf7b9ca9a285962dd6d1c7cfae26f964034e85e31245bd",
