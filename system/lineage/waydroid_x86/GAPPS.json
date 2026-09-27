@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1790493959,
+            "filename": "lineage-20.0-20260927-GAPPS-waydroid_x86-system.zip",
+            "id": "7313b2a9a720c87a561c8de5b7566e4302b97963901a8a6b355c1c3ba88742f0",
+            "romtype": "GAPPS",
+            "size": 1060661860,
+            "url": "https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86/lineage-20.0-20260927-GAPPS-waydroid_x86-system.zip/download",
+            "version": "20.0"
+        },
+        {
             "datetime": 1775199136,
             "filename": "lineage-20.0-20260403-GAPPS-waydroid_x86-system.zip",
             "id": "2f1f8d96bc43b7c2ad0718c893c9d019e27e481c90316b9aefd50adbb7bf16cb",
